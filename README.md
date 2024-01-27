@@ -50,6 +50,6 @@
 
 <br/>
 <br/>
-
+<h3 align="left">Statistics:</h3>
 <img align="left" alt="GregTerekhov's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GregTerekhov&show_icons=true&theme=dark"/>
 <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregTerekhov&layout=compact"/>
