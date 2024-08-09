@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Greg Terekhov</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-[![Greg Terekhov profile views](https://u8views.com/api/v1/github/profiles/113180004/views/day-week-month-total-count.svg)](https://u8views.com/github/GregTerekhov)
-
+<div align="right">[![Greg Terekhov profile views](https://u8views.com/api/v1/github/profiles/113180004/views/day-week-month-total-count.svg)](https://u8views.com/github/GregTerekhov)
+</div>
 - 🔭 I’m currently working on [News-portal](https://github.com/GregTerekhov/news-portal-refactor)
 
 - 🌱 I’m currently learning **Next.js and Typescript**
