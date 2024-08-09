@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Greg Terekhov</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gregterekhov&label=Profile%20views&color=0e75b6&style=flat" alt="gregterekhov" /> </p>
+[![Greg Terekhov profile views](https://u8views.com/api/v1/github/profiles/113180004/views/day-week-month-total-count.svg)](https://u8views.com/github/GregTerekhov)
 
 - 🔭 I’m currently working on [News-portal](https://github.com/GregTerekhov/news-portal-refactor)
 
